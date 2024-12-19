@@ -27,7 +27,7 @@ snake_body = [[100, 50],
 
 
 snake_speed = 20
-direction = 'RIGHT'
+direction = 'RIGHT' # setting the default direction at the start to be 'right'
 fps = pygame.time.Clock()
 
 
